@@ -1,2 +1,2 @@
 # deepAM
-Using to deep learning for marketing attribution modelling.
+Using deep learning for cross-channel marketing spend optimization.
