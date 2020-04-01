@@ -130,8 +130,12 @@ dmypy.json
 
 # Pycharm
 .idea/
+.DS_Store
 
 # data
 .csv
 .txt
 .json
+.tsv.gz
+.gz
+criteo_attribution_dataset.tsv.gz

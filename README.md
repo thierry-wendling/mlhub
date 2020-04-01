@@ -1,2 +1,2 @@
-# deepAM
-Using deep learning for cross-channel marketing spend optimization.
+# mlhub
+A collection of practical machine learning models and strategies used in various artifical intelligence applications (commercial or not) such as marketing budget optimisation, algorithmic sport betting, product recommendation, computer vision and text information retrieval.
